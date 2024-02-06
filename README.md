@@ -5,7 +5,7 @@
 
 - 💬 Ask me about *Dart,Flutter,JavaScript,Node js*
 
-- 📫 How to reach me *https://www.linkedin.com/in/jefrin-johnson-624842216/*
+- 📫 How to reach me <a href="https://www.linkedin.com/in/jefrin-johnson-624842216/"> <span>**Click Me**</span></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
